@@ -1,0 +1,3 @@
+This project seeks to create a set of easily usable vector maps showing the fall of colonialism. They use the same colours in all maps to make them easy to use. The colours in the EPS format are duller than the SVG or AI files, so make sure that you use the proper colour key while looking at them. Notes are included with each map in a TXT file. Read them to understand in more depth the maps. Notes files include a list of nations denoted by numbers, a list of owners of miscellaneous colonies, and a paragraph of random interesting or important notes.
+
+Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
