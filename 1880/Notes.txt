@@ -1,12 +1,16 @@
-Nations denoted by numbers:
-1 - Prussia
-2 - Switzerland
-3 - Hungary (Austria-Hungary)
-4 - Abyssinia (Modern-Day Ethiopia), a province of Ethiopia in 1880.
-5 - Ethiopia
-6 - Greece
+Regions denoted by numbers:
+1 - Switzerland
+2 - Hungary (Austria-Hungary)
+3 - Abyssinia (Modern-Day Ethiopia), a province of Ethiopia in 1880.
+4 - Ethiopia
+5 - Greece
+6 - Liberia
 7 - Yucatán
+8 - Alaska (US)
+9 - Romania
+10 - Serbia
+11 - Montenegro
 
-Between 1860 and 1880, Canada became independent from the United Kingdom, but other than that not much else happened. Africa was still a mess.
+Between 1860 and 1880, Canada became independent from the United Kingdom and the Ottoman Empire continued to crumble, but other than that not much else happened. Africa was still a mess.
 
 Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
