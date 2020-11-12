@@ -1,12 +1,13 @@
-Nations denoted by numbers:
+Regions denoted by numbers:
 1 - Prussia
 2 - Switzerland
 3 - Hungary (Austria-Hungary)
 4 - Abyssinia (Modern-Day Ethiopia), a province of Ethiopia in 1840.
 5 - Ethiopia
 6 - Greece
-7 - Texas (The Republic of Texas)
+7 - Liberia (US)
+8 - Texas (The Republic of Texas)
 
 The United Provinces of Central America collapsed around 1840. It is shown as collapsed here. Africa was still a total mess in 1840. I have divided up Africa slightly more and removed Barbary from the Ottoman Empire, but this is fairly close to guesswork as reliable sources are almost impossible to find. Some small islands may be the wrong colour, but I think things are mostly correct.
 
-Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
