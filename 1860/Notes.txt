@@ -1,4 +1,4 @@
-Nations denoted by numbers:
+Regions denoted by numbers:
 1 - Prussia
 2 - Switzerland
 3 - Hungary (Austria-Hungary)
