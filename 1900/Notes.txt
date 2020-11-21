@@ -2,7 +2,7 @@ Regions denoted by numbers:
 1 - Switzerland
 2 - Hungary (Austria-Hungary)
 3 - Abyssinia (Modern-Day Ethiopia)
-4 - Ethiopia
+4 - Luxembourg
 5 - Greece
 6 - Liberia
 7 - Yucatán
@@ -16,6 +16,6 @@ Regions denoted by numbers:
 15 - Crete
 16 - South African Republic
 
-In the events leading up to 1900, Germany began to colonize, and Africa began to get divided up. By 1900 Sub-Saharan Africa was no longer such a mess, although Northern Africa was still slightly ambiguous. By 1900 many regions had gained independence or recognition. 
+In the events leading up to 1900, Germany began to colonize, and Africa began to get divided up. By 1900 Sub-Saharan Africa was no longer such a mess, although Northern Africa was still slightly ambiguous. By 1900 many regions had gained independence or recognition, with the exception of Africa, which remained colonial for more than half a century.
 
 Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
