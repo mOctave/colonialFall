@@ -10,7 +10,8 @@ Regions denoted by numbers:
 9 - Romania
 10 - Serbia
 11 - Montenegro
+12 - Luxembourg
 
-Between 1860 and 1880, Canada became independent from the United Kingdom and the Ottoman Empire continued to crumble, but other than that not much else happened. Africa was still a mess.
+Between 1860 and 1880, Canada became independent from the United Kingdom and the Ottoman Empire continued to crumble, but other than that not much else happened. The United States bought Alaska from Russia. Africa was still a mess.
 
 Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
