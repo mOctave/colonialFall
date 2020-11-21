@@ -1,0 +1,28 @@
+Regions denoted by numbers:
+1 - Switzerland
+2a - Hungary
+2b - Austria
+3 - Abyssinia (Modern-Day Ethiopia)
+4 - Luxembourg
+5 - Greece
+6 - Liberia
+8 - Alaska (US)
+9 - Romania
+10 - Yugoslavia
+11 - Albania
+12 - Puerto Rico (US)
+13 - Vanuatu (British-French Condominium)
+14 - Philippines (US)
+15 - Czechslovakia
+16 - Bulgaria
+17 - Poland
+18 - Finland
+19 - Ukraine
+20 - Georgia
+21 - Azerbaijan
+22 - Armenia
+r1 - From north to south: Estonia, Latvia, Lithuania
+
+At the end of World War Two, all of Germany's possessions were split up among the United Kingdom and France. By 1920 Africa had been entirely divided up, with most of southeast Africa being British and most of western Africa being French. As the collapse of the Ottoman Empire came to a close, the Middle East was also divided up somewhat.
+
+Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
