@@ -21,8 +21,9 @@ Regions denoted by numbers:
 20 - Georgia
 21 - Azerbaijan
 22 - Armenia
+23 - Hawaii (US)
 r1 - From north to south: Estonia, Latvia, Lithuania
 
-At the end of World War Two, all of Germany's possessions were split up among the United Kingdom and France. By 1920 Africa had been entirely divided up, with most of southeast Africa being British and most of western Africa being French. As the collapse of the Ottoman Empire came to a close, the Middle East was also divided up somewhat.
+At the end of World War One, all of Germany's possessions were split up among the United Kingdom and France. By 1920 Africa had been entirely divided up, with most of southeast Africa being British and most of western Africa being French. As the collapse of the Ottoman Empire came to a close, the Middle East was also divided up somewhat.
 
 Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
