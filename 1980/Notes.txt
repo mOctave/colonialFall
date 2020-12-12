@@ -1,0 +1,21 @@
+Regions denoted by numbers:
+1 - Switzerland
+2a - Austria
+2b - Hungary
+3 - Ireland
+4 - Romania
+5 - Greece
+6 - Liberia
+7 - Bulgaria
+8 - Yugoslavia
+9 - Puerto Rico (US)
+10 - Poland
+11 - Finland
+12 - Czechslovakia
+13 - Somalia
+14 - West Germany
+15 - Western Sahara
+
+By 1980 the map of the world looked much like it does today, with the exception of Europe. Africa was almost identical to how it is today, although Eritrea and South Sudan didn't exist, and Namibia was controlled by South Africa. Some of the few remaining colonies include Belize (British) and the French portion of Guyana.
+
+Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
