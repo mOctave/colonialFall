@@ -8,15 +8,14 @@ Regions denoted by numbers:
 6 - Liberia
 7 - Bulgaria
 8 - Yugoslavia
-9 - Alaska (US)
-10 - Puerto Rico (US)
-11 - Vanuatu (British-French Condominium)
-12 - Poland
-13 - Hawaii (US)
-14 - Finland
-15 - Czechslovakia
-16 - Somalia
+9 - Puerto Rico (US)
+10 - Poland
+11 - Finland
+12 - Czechslovakia
+13 - Somalia
+14 - West Germany
+15 - Western Sahara
 
-By 1960 the great colonial empires of Britain and France had begun to collapse. Some colours may be incorrect on this map, and Papua New Guinea has been show as a British colony although it was actually more under Australian control. The Soviet Union was still quite strong, although it no longer contained Poland, which left as soon as it could. Somalia united before 1960 and had high hopes before eventually going into decade after decade of civil war.
+By 1960 the great colonial empires of Britain and France had begun to collapse. Papua New Guinea has been show as a British colony although it was actually more under Australian control. The Soviet Union was still quite strong, although it no longer contained Poland, which left as soon as it could. Somalia united before 1960 and had high hopes before eventually going into decade after decade of civil war.
 
 Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
