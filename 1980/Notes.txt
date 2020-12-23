@@ -11,7 +11,7 @@ Regions denoted by numbers:
 9 - Puerto Rico (US)
 10 - Poland
 11 - Finland
-12 - Czechslovakia
+12 - Czechoslovakia
 13 - Somalia
 14 - West Germany
 15 - Western Sahara
