@@ -1,0 +1,29 @@
+Regions denoted by numbers:
+1 - Switzerland
+2a - Austria
+2b - Hungary
+3 - Ireland
+4 - Romania
+5 - Greece
+6 - Liberia
+7 - Bulgaria
+8 - Yugoslavia
+8a - Bosnia and Herzegovnia
+8b - Croatia
+8c - Slovenia
+8d - Montenegro
+8e - Kosovo
+9 - Puerto Rico (US)
+10 - Poland
+11 - Finland
+12a - Czech Republic (Czechia)
+12b - Slovakia
+13 - Somalia
+14 - Liechtenstein
+15 - Western Sahara
+
+2020 - Present Day
+
+Although Crimea is disputed, it is not shown as such on this map. Other than that everything is as up to date as possible.
+
+Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
