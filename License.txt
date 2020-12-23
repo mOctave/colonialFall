@@ -1,1 +1,1 @@
-Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Copyright © 2020 mOctave. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Credit to Daniel R. Strebe for the image used to create the base map (https://en.wikipedia.org/wiki/List_of_map_projections#/media/File:Robinson_projection_SW.jpg)
