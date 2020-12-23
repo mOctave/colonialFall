@@ -8,7 +8,7 @@ Regions denoted by numbers:
 6 - Liberia
 7 - Bulgaria
 8 - Yugoslavia
-8a - Bosnia and Herzegovnia
+8a - Bosnia and Herzegovina
 8b - Croatia
 8c - Slovenia
 8d - Montenegro
